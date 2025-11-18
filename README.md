@@ -82,6 +82,7 @@ Program for logic gates and verify its truth table in quartus using Verilog prog
 
 
 **Result:**
+
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
 
